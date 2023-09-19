@@ -1,5 +1,5 @@
 ---
-description: Test.
+
 ---
 
 # Welcome to Mojo Dojo
