@@ -1,7 +1,5 @@
 ---
-description: >-
-  Here is where you will learn how to become a useful citizen of Mojo Dojo Casa
-  House.
+description: Test.
 ---
 
 # Welcome to Mojo Dojo
