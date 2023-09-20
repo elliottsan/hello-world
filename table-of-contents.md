@@ -1,6 +1,6 @@
----
-description: Jump around and discover faster.
----
+
+Jump around and discover faster.
+
 
 # Table of Contents
 
