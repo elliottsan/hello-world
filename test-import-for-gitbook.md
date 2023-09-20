@@ -7,6 +7,7 @@ Here is a list I wrote:
 * Banana
 * Apple
 * Pear
+* Plum
 
 > “I wonder how it will import this block quote”
 
