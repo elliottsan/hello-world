@@ -7,7 +7,11 @@ Jump around and discover faster.\
 
 <figure><img src=".gitbook/assets/2.JPG" alt="An engagement ring." width="375"><figcaption><p>Ring!</p></figcaption></figure>
 
-## Table of Contents
+{% embed url="https://www.youtube.com/watch?v=z5VwtC7Yvqo" %}
+test Youtube embed
+{% endembed %}
+
+Table of Contents
 
 1. Book of Fun
 2. Book of No Fun
